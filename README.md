@@ -2,7 +2,8 @@
 
 # Link-OS プリンタ ステータスとイベント情報を取得する方法（まとめサイト）
 
-<img width="500" src="https://www.zebra.com/content/dam/zebra_dam/global/zcom-web-production/web-production-photography/web002/print-dna-photography-website-video-preview-16x9.jpg.imgo.jpg">
+
+![bg](https://www.zebra.com/content/dam/zebra_dam/global/zcom-web-production/web-production-photography/web002/print-dna-photography-website-video-preview-16x9.jpg.imgo.jpg)
 
 </br>
 2024年初旬以降、プリンタのステータス取得方法に関する質問が増えている。背景として下記状況があるためと思われる。
@@ -188,7 +189,9 @@ https://github.com/shimauma-giken/Zebra-Printer_Link-OS_Send-Event-Notice-to-Hos
 
 #### ■ Applicator Port 型
 
-一部のテーブルトップはオートメーションデバイスとして動作できるようにアプリケータI/F オプションをご用意している。このようなオートメーション機器と連動ができるように特定のプリンタ機種にてアプリケータI/Fが実装可能となっている。プリンタのステータスをダイレクトに通知するためにレスポンス性が良い。このI/Fは自動処理システムなど、プリンタに対してシビアな制御が必要な運用環境下で用いられることが多い。
+一部のテーブルトップはオートメーションデバイスとして動作できるようにアプリケータI/F オプションをご用意している。このようなオートメーション機器と連動ができるように特定のプリンタ機種にてアプリケータI/Fが実装可能となっている。プリンタのステータスをダイレクトに通知するためにレスポンス性が良い。このI/Fは自動処理システムなど、プリンタに対してシビアな制御が必要な運用環境下で用いられることが多い。  
+https://github.com/shimauma-giken/Zebra-Printer-Link-OS_Understanding-Logic-of-Applicator-Port
+
 
 </br>
 </br>
