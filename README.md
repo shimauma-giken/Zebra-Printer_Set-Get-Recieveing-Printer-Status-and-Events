@@ -2,8 +2,9 @@
 
 # Link-OS プリンタ ステータスとイベント情報を取得する方法（まとめサイト）
 
-<img width="500" src="https://4logistic.de/media/image/98/76/27/15-01-_2020_14-57-38_600x600.webp">
+<img width="500" src="https://www.zebra.com/content/dam/zebra_dam/global/zcom-web-production/web-production-photography/web002/print-dna-photography-website-video-preview-16x9.jpg.imgo.jpg">
 
+</br>
 2024年初旬以降、プリンタのステータス取得方法に関する質問が増えている。背景として下記状況があるためと思われる。
 
 - 印刷処理をオートメーション化
