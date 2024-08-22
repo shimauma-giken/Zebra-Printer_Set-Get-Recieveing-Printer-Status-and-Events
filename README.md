@@ -94,12 +94,12 @@ Link-OS プリンタのステータスを取得する方法は下記の通り。
 
 #### ■ ZPL： ^SX
 
-設定することにより、任意のインターフェイスへイベント通知が可能。
+設定することにより、任意のインターフェイスへイベント通知が可能。</br>
 https://github.com/shimauma-giken/Zebra-Printer_Link-OS_Add-Alerts-by--SX-command
 
 #### ■ SGD: alerts.add
 
-^SXの上位互換版。^SXより汎用性が高い。
+^SXの上位互換版。^SXより汎用性が高い。</br>
 https://github.com/shimauma-giken/Zebra-Printer_Link-OS_Add-Alerts-by-SGD-Alerts-command
 
 </br>
