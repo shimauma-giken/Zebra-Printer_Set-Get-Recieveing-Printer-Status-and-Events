@@ -114,7 +114,7 @@ https://github.com/shimauma-giken/Zebra-Printer_Link-OS_Add-Alerts-by-SGD-Alerts
 
 #### ■ ZPL:~HS </br> ■ SGD:device.host_status
 
-プリンタのステータス情報を取得するにあたって、代表的なコマンドが2つある。プリンタの死活監視やオーソドックスなステータス情報収集に用いられることが多い。
+プリンタのステータス情報を取得するにあたって、代表的なコマンドが2つある。プリンタの死活監視やオーソドックスなステータス情報収集に用いられることが多い。</br>
 https://github.com/shimauma-giken/Zebra-Printer_Link-OS_Get-Host-Status-by-Command
 
 </br>
@@ -123,7 +123,7 @@ https://github.com/shimauma-giken/Zebra-Printer_Link-OS_Get-Host-Status-by-Comma
 #### ■ SDK: Class PrinterStatus</br>■ SDK: Class SGD + "~HS"</br>■ SDK: Class SnmpPrinter
 
 ホストのアプリケーションからステータスを取得する代表的な例を紹介する。
-各取得方法に長短があるので、見極めた上で運用に適したものを利用すること。
+各取得方法に長短があるので、見極めた上で運用に適したものを利用すること。</br>
 https://github.com/shimauma-giken/Zebra-Printer_Link-OS_Get-Host-Status-from-Programs
 
 [参考: Zebra プリンタからRFID履歴/プリンタステータスを取得するコード例 C#編](https://github.com/shimauma-giken/Zebra-Printer_C-Sharp_Get-Printer-Status_RFID-Logs)
@@ -133,7 +133,7 @@ https://github.com/shimauma-giken/Zebra-Printer_Link-OS_Get-Host-Status-from-Pro
 
 #### ■ SGD: rfid.log.entries</br>■ ZPL:^HV
 
-RFエンコーダの実行結果を取得可能。
+RFエンコーダの実行結果を取得可能。</br>
 https://github.com/shimauma-giken/Zebra-Printer_Recieve-Encode-Results-from-RFID-Printers
 
 [Support Community:Enable and retrieve RFID data log using Zebra Setup Utilities](https://supportcommunity.zebra.com/s/article/000026343)
@@ -147,7 +147,7 @@ https://github.com/shimauma-giken/Zebra-Printer_Recieve-Encode-Results-from-RFID
 
 SNMPとはネットワーク上の機器を監視・管理するために開発されたプロトコル。
 機器の遠隔マネジメントや多数機器の集中管理の目的で利用されることが多い。
-ポーリング方式とトラップ方式が存在する。
+ポーリング方式とトラップ方式が存在する。</br>
 https://github.com/shimauma-giken/Zebra-Printer_Link-OS_Get-Host-Status-by-SNMP
 
 </br>
@@ -189,7 +189,7 @@ https://github.com/shimauma-giken/Zebra-Printer_Link-OS_Send-Event-Notice-to-Hos
 
 #### ■ Applicator Port 型
 
-一部のテーブルトップはオートメーションデバイスとして動作できるようにアプリケータI/F オプションをご用意している。このようなオートメーション機器と連動ができるように特定のプリンタ機種にてアプリケータI/Fが実装可能となっている。プリンタのステータスをダイレクトに通知するためにレスポンス性が良い。このI/Fは自動処理システムなど、プリンタに対してシビアな制御が必要な運用環境下で用いられることが多い。  
+一部のテーブルトップはオートメーションデバイスとして動作できるようにアプリケータI/F オプションをご用意している。このようなオートメーション機器と連動ができるように特定のプリンタ機種にてアプリケータI/Fが実装可能となっている。プリンタのステータスをダイレクトに通知するためにレスポンス性が良い。このI/Fは自動処理システムなど、プリンタに対してシビアな制御が必要な運用環境下で用いられることが多い。  </br>
 https://github.com/shimauma-giken/Zebra-Printer-Link-OS_Understanding-Logic-of-Applicator-Port
 
 
